@@ -1,0 +1,7 @@
+jionlp
+sentence-transformers
+langchain
+langchain-community
+typing
+presidio_analyzer
+presidio_anonymizer
